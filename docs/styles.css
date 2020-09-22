@@ -1,0 +1,21 @@
+body {
+	font-family: 'Barlow Regular', 'Barlow', sans-serif;
+}
+
+main .content {
+	font-size: larger;
+}
+
+header img {
+	width: 100%;
+}
+
+footer {
+	font-size: smaller;
+	color: #444444;
+}
+
+.fa {
+	font-size: 30px;
+	color: #444444;
+}
